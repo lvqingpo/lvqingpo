@@ -61,6 +61,7 @@ public class DbApplication {
 		//Jms.consumeMessage();
 		 
 		logger.info("start perfect!");
+		logger.info("start perfect!");
 	}
 	
 	private void run() {
