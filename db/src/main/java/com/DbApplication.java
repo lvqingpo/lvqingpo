@@ -19,6 +19,13 @@ import com.kafka.Jms;
 import com.redis.RedisService;
 import com.service.DeptService;
 
+/**
+ * 
+ * @author lvqingpo
+ * 
+ *
+ */
+
 
 @SpringBootApplication
 public class DbApplication {

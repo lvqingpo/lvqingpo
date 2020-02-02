@@ -11,14 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author xuchunlin
- * @version V1.0
- * @Title: RedisService
- * @Package com.bootdo.common.redis
- * @Description: TODO
- * @date 2018/12/24 14:50
- */
+
 @Component
 public class RedisService {
 

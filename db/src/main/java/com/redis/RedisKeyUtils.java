@@ -1,13 +1,6 @@
 package com.redis;
 
-/**
- * @author xuchunlin
- * @version V1.0
- * @Title: RedisKeyUtils
- * @Package com.bootdo.common.redis
- * @Description: TODO
- * @date 2018/12/24 15:04
- */
+
 public class RedisKeyUtils {
     private static final String KEY_SUFFIX="elevator";
 

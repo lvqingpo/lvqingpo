@@ -8,14 +8,7 @@ import org.springframework.data.redis.core.*;
 import org.springframework.data.redis.serializer.JdkSerializationRedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 
-/**
-	 * @author xuchunlin
-	 * @version V1.0
-	 * @Title: RedisConfig
-	 * @Package com.bootdo.api.redis
-	 * @Description: TODO
-	 * @date 2018/12/24 14:36
-	 */
+
 
 @Configuration
 public class RedisConfig {
